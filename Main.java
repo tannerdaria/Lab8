@@ -1,3 +1,9 @@
+/*
+Lab 4
+Me: Tanner Daria. Partner: Alex Hils.
+Date: 11/9
+*/
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
